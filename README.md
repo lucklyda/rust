@@ -1,0 +1,2 @@
+# rust
+learn the rust
